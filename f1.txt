@@ -1,3 +1,7 @@
 hello all!!!!
 Change 2:bug1 fix
 Change 3:bug1_2 fix
+<<<<<<< Updated upstream
+=======
+Change to test half done work
+>>>>>>> Stashed changes
